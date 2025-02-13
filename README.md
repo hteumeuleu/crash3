@@ -17,5 +17,11 @@ Only the english version of the HTML website has been restored. The Shockwave ve
 
 * http://crashbandicoot3.com/english/images/gemyellow.jpg (89x73)
 * http://crashbandicoot3.com/english/images/relic.gif (54x81)
+* http://crashbandicoot3.com/english/images/crash_poster.jpg (178x125)
+* http://crashbandicoot3.com/english/images/jason_rubin_and_morgan.jpg (88x125)
+* http://crashbandicoot3.com/english/images/drinking.jpg (81x124)
+* http://crashbandicoot3.com/english/images/computer.jpg (190x125)
+* http://crashbandicoot3.com/english/images/naughty_dog.jpg (179x125)
+* http://crashbandicoot3.com/english/images/naughty_toys.jpg (90x125)
 
 If you have these images or have any clue on how to retrieve them, please let me know.

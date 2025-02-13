@@ -1,6 +1,7 @@
-body { background-color:#000; font-size:13px; }
+body { background-color:#000; font-size:12px; }
 a[href="#disabled"] { cursor:not-allowed; }
 [background] { background-attachment: fixed; background-repeat: no-repeat; }
-p { margin:0.5em 0; }
 a { color:white; }
 p:empty { display:none; }
+p { margin:0.75em 0; }
+font[size="2"] { font-size:12px; }

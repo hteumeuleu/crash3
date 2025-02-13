@@ -15,8 +15,9 @@ function openGalleryWindow(picname)
         write("<HTML><HEAD><TITLE>");
         write("Crash 3 Gallery");
         write("</TITLE></HEAD>");
-        write("<BODY TEXT='#000000' BGCOLOR='#000000'>");
-        write("<center><IMG SRC='"+picname+".jpg'></center>");
+        write("<META NAME='VIEWPORT' CONTENT='WIDTH=375'>");
+        write("<BODY STYLE='margin:0;' TEXT='#000000' BGCOLOR='#000000'>");
+        write("<center><IMG SRC='"+picname+".jpg' STYLE='max-width:100%;'></center>");
         write("<center><form>");
         write("</form></center></BODY></HTML>");
         close();
