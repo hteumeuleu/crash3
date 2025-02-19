@@ -25,3 +25,7 @@ Only the english version of the HTML website has been restored. The Shockwave ve
 * http://crashbandicoot3.com/english/images/naughty_toys.jpg (90x125)
 
 If you have these images or have any clue on how to retrieve them, please let me know.
+
+## Credits
+
+“Crash Bandicoot”, “Playstation”, “Naughty Dog” and “Universal Interactive Studios” are all registered trademarks of their respective owners. This site restoration was done without any authorization by Rémi Parmentier (@HTeuMeuLeu) in good faith and for the love of the original website. Please don’t sue me.
