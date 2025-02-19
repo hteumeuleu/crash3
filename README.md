@@ -11,7 +11,7 @@ Only the english version of the HTML website has been restored. The Shockwave ve
 * Links to the Shockwave version and unavailable languages have been disabled.
 * The site now features a favicon grabbed from the modern `crashbandicoot.com` site. I didn’t find any evidence the original site had one.
 * The video in the Goodies page has been reencoded to be playable in a modern Quicktime version. The  `crash3.zip` file that contains this video is now only 1 MB. (But I left the site state the original file size of `2.74Mb`.)
-* One line of CSS has been added to every page to adjust margins on paragraphs and to fix the pages background image’s attachment.
+* A CSS file has been added to every page to adjust margins and font sizes and to fix the pages background image’s attachment.
 
 ## Missing Assets
 
